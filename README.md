@@ -1,6 +1,6 @@
 ![logo](https://github.com/ayusjakhmola25/ayusjakhmola25/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola.</h1>
-<h3 align="center">A Passionate CSE Student from India.</h3>
+<h3 align="center">A Passionate Cyber Security Student from India.</h3>
 
 
 - 🔭 I’m currently studing at **Graphic Era Hill University.**
