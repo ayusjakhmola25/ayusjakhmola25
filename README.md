@@ -1,4 +1,4 @@
-![logo](https://github.com/ayushjakhmola25/ayushjakhmola/main/banner.jpg)
+![logo](Black and White Simple Art Director LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola.</h1>
 <h3 align="center">A passionate CSE Student from India.</h3>
 
