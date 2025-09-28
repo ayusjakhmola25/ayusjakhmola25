@@ -1,4 +1,4 @@
-![logo](https://github.com/ayusjakhmola25/ayush-jakhmola/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.pngraw=true)
+![logo](https://github.com/ayusjakhmola25/ayush-jakhmola/commits?author=ayusjakhmola25)
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola.</h1>
 <h3 align="center">A passionate CSE Student from India.</h3>
 
