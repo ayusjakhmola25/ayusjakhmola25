@@ -1,4 +1,4 @@
-![logo](https://github.com/ayushjakhmola/ayushjakhmola/blob/main/banner.jpg)
+![logo](https://github.com/ayushjakhmola25/ayushjakhmola/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola.</h1>
 <h3 align="center">A passionate CSE Student from India.</h3>
 
