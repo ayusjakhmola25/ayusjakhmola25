@@ -3,11 +3,11 @@
 <h3 align="center">A Passionate Cyber Security Student from India.</h3>
 
 
-- 🔭 I’m currently studing at **Graphic Era Hill University.**
+- 🔭 I’m currently studing at **Graphic Era Hill University,Dehradun.**
 
 - 📫 How to reach me **jakhmolaayush51@gmail.com**
 
-- ⚡ Fun fact **I am a dedicated person and passionate towards coding.**
+- ⚡ Fun fact **I am a dedicated person and passionate towards coding and security.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
