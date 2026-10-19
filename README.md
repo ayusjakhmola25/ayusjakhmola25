@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola</h1>
 
 <h3 align="center">
-🔐 Cyber Security Enthusiast | 💻 BCA @ Graphic Era Hill University, Dehradun
+Cyber Security Enthusiast
 </h3>
 
 <p align="center">
