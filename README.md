@@ -6,93 +6,86 @@
 
 <h1 align="center">Ayush Jakhmola</h1>
 <h3 align="center">Offensive Security Researcher | Penetration Tester</h3>
-
-<p align="center"><strong>Web • Network • Cloud • Active Directory • Wi-Fi • AI Security</strong></p>
+<p align="center"><strong>Web • Network • Cloud Security • Wi-Fi • AI</strong></p>
 
 <p align="center">
   <a href="https://github.com/vulnanalyst"><img src="https://img.shields.io/badge/GitHub-vulnanalyst-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/BCA%20(Hons.)-Cyber%20Security-111827?style=for-the-badge" alt="BCA Cyber Security" />
-  <img src="https://img.shields.io/badge/Graduation-2027-111827?style=for-the-badge" alt="BCA 2027" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-Research-111111?style=for-the-badge" alt="Offensive Security" />
+  <img src="https://img.shields.io/badge/Network%20Security-Analysis-111111?style=for-the-badge" alt="Network Security" />
 </p>
 
 ---
 
 ## Profile
 
-I’m a BCA (Hons.) Cyber Security student building practical skills in offensive security, penetration testing, network defense, and vulnerability research. I’m interested in understanding how systems fail, validating security weaknesses in authorized environments, and documenting findings with actionable remediation.
+Offensive Security Researcher and Penetration Tester focused on understanding real-world vulnerabilities, assessing security controls, and improving technical troubleshooting skills.
 
-- **Primary focus:** Web application and network penetration testing
-- **Enterprise security:** Active Directory, Windows security, identity and access fundamentals
-- **Research interests:** Vulnerability analysis, bug bounty hunting, cloud security, and AI/LLM security
-- **Troubleshooting:** DNS, TCP/IP, routing, service availability, Linux and Windows diagnostics
-- **Learning platforms:** TryHackMe, Hack The Box, and PortSwigger Web Security Academy
-- **Bug bounty:** HackerOne — active since March 2026
+- Active on **HackerOne** since March 2026
+- Learning and practicing on **TryHackMe** (since November 2025), Hack The Box, and PortSwigger Web Security Academy
+- Focus areas: web application security, network penetration testing, Active Directory, cloud security, Wi-Fi security, and AI/LLM security
+- Interested in vulnerability research, bug bounty hunting, security automation, and clear technical reporting
 
 ## Core Expertise
 
 <p>
-  <img src="https://img.shields.io/badge/Web%20Pentesting-Hands--on-111111?style=for-the-badge" alt="Web penetration testing" />
-  <img src="https://img.shields.io/badge/Network%20Security-Hands--on-111111?style=for-the-badge" alt="Network security" />
-  <img src="https://img.shields.io/badge/Active%20Directory-Learning%20%26%20Labs-111111?style=for-the-badge" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-Fundamentals-111111?style=for-the-badge" alt="Cloud security" />
-  <img src="https://img.shields.io/badge/Wi--Fi%20Security-Fundamentals-111111?style=for-the-badge" alt="Wi-Fi security" />
-  <img src="https://img.shields.io/badge/AI%20Security-Research-111111?style=for-the-badge" alt="AI security" />
+  <img src="https://img.shields.io/badge/Web%20Pentesting-Intermediate-111111?style=for-the-badge" alt="Web pentesting" />
+  <img src="https://img.shields.io/badge/Network%20Pentesting-Intermediate-111111?style=for-the-badge" alt="Network pentesting" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-Intermediate-111111?style=for-the-badge" alt="Cloud security" />
+  <img src="https://img.shields.io/badge/Wi--Fi%20Pentesting-Intermediate-111111?style=for-the-badge" alt="Wi-Fi pentesting" />
+  <img src="https://img.shields.io/badge/AI%20Security-Beginner-111111?style=for-the-badge" alt="AI security" />
 </p>
 
 ## Active Directory & Enterprise Network Security
 
-Areas I’m studying and practicing in controlled labs:
+Focused on learning and lab-based assessment of Windows domain environments:
 
-- **Active Directory discovery:** Domain and host discovery, users, groups, and domain structure
-- **DNS:** Name resolution, records, resolver configuration, and domain controller discovery
-- **Kerberos:** Authentication flows, tickets, SPNs, and common configuration issues
-- **SMB:** Share discovery, access controls, and permissions review
-- **LDAP:** Directory queries, connectivity, and secure configuration
-- **BloodHound:** Visualizing directory relationships and potentially risky privilege paths
-- **Windows security:** Group membership, local permissions, event logs, and least-privilege reviews
-- **Network defense:** Firewall rules, service exposure, segmentation, logging, and incident triage
+- **Active Directory enumeration:** domain structure, users, groups, computers, and permissions
+- **DNS and domain discovery:** name resolution, DNS records, and domain controller discovery
+- **Kerberos:** authentication flows, tickets, SPNs, and common configuration issues
+- **SMB and LDAP:** service reachability, directory queries, share access, and permissions
+- **BloodHound and Impacket:** analyzing relationships and security configurations in authorized labs
+- **Windows security:** group membership, access controls, event logs, and least-privilege review
+- **Network defense:** firewall rules, exposed services, segmentation, logging, and incident triage
 
-### Network Troubleshooting Quick Reference
+### Network Troubleshooting Reference
 
-| Symptom | What to check | Useful tools / commands |
+| Issue | Check | Tools / Commands |
 |---|---|---|
-| Domain join fails | DNS, domain controller discovery, system time | `ipconfig /all`, `nslookup`, `nltest` |
-| Login / Kerberos issue | Time sync, account status, ticket state | `klist`, Event Viewer |
-| SMB share unavailable | Name resolution, port reachability, share/NTFS permissions | `Test-NetConnection`, `smbclient` |
-| LDAP connection fails | DNS, port reachability, TLS and bind configuration | `ldapsearch`, `nc` |
-| Host / service unreachable | IP configuration, routes, firewall, service state | `ping`, `traceroute`, `Nmap` |
-| Unexpected open port | Listening process, exposure, firewall policy | `ss -lntup`, `Nmap` |
-| Linux service failure | Unit status, process, logs, configuration | `systemctl`, `journalctl` |
-| Packet loss / intermittent access | Latency, routing, retransmissions, DNS | `ping`, `traceroute`, Wireshark |
+| Domain join failure | DNS, domain controller discovery, system time | `ipconfig /all`, `nslookup`, `nltest` |
+| Kerberos / login issue | Clock skew, account state, ticket cache | `klist`, Event Viewer |
+| SMB access issue | Reachability, share and NTFS permissions | `Test-NetConnection`, `smbclient` |
+| LDAP connection failure | DNS, port reachability, TLS / bind settings | `ldapsearch`, `nc` |
+| Host / service unreachable | IP settings, routing, firewall, service state | `ping`, `traceroute`, `Nmap` |
+| Unexpected open port | Listening process and exposure | `ss -lntup`, `Nmap` |
+| Linux service failure | Service state and logs | `systemctl`, `journalctl` |
+| Intermittent connectivity | Latency, packet loss, DNS, retransmissions | `ping`, Wireshark |
 
 ## Certifications & Learning
 
 ### In Progress
-
 <p>
   <img src="https://img.shields.io/badge/CEH%20v13-In%20Progress-111111?style=for-the-badge" alt="CEH v13 in progress" />
-  <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-In%20Progress-111111?style=for-the-badge" alt="ISC2 CC in progress" />
+  <img src="https://img.shields.io/badge/ISC2%20CC-In%20Progress-111111?style=for-the-badge" alt="ISC2 CC in progress" />
 </p>
 
-### Completed Certifications / Courses
-
+### Certifications / Courses
 - Cisco Ethical Hacker
-- Cisco Networking Academy — CCNA: Introduction to Networks
-- Cisco Networking Academy — Network Defense
+- CCNA: Introduction to Networks
+- Cisco Network Defense
 - TryHackMe Jr. Penetration Tester
 - AWS Cloud Practitioner Essentials
 
 ### Course Badges
 
 <p align="left">
-  <img src="Images/ethical-hacker.png" width="92" alt="Cisco Ethical Hacker badge" />
-  <img src="Images/networking-basics.png" width="92" alt="Networking Basics badge" />
-  <img src="Images/network-defense.png" width="92" alt="Network Defense badge — add this image to the Images folder" />
-  <img src="Images/aws-cloud-quest-cloud-practitioner-training-badge.png" width="92" alt="AWS Cloud Quest badge" />
-  <img src="Images/isc2-candidate.png" width="92" alt="ISC2 Candidate badge" />
+  <a href="YOUR_CISCO_ETHICAL_HACKER_BADGE_URL"><img src="Images/ethical-hacker.png" width="92" alt="Cisco Ethical Hacker badge" /></a>
+  <a href="YOUR_CCNA_INTRO_BADGE_URL"><img src="Images/networking-basics.png" width="92" alt="CCNA Introduction to Networks badge" /></a>
+  <a href="YOUR_NETWORK_DEFENSE_BADGE_URL"><img src="Images/network-defense.png" width="92" alt="Cisco Network Defense badge" /></a>
+  <a href="YOUR_AWS_BADGE_URL"><img src="Images/aws-cloud-quest-cloud-practitioner-training-badge.png" width="92" alt="AWS Cloud Quest badge" /></a>
+  <a href="YOUR_ISC2_BADGE_URL"><img src="Images/isc2-candidate.png" width="92" alt="ISC2 Candidate badge" /></a>
 </p>
 
-> **Badge links:** Add the public Credly / Cisco Networking Academy / ISC2 credential URLs to each badge image when available. Course completion badges and professional certifications are different; keep the status accurate.
+> Replace the placeholder badge URLs with your public credential links. Ensure image filenames exist in the repository. Course badges and professional certifications should be labelled accurately.
 
 ## Operating Systems
 
@@ -100,26 +93,25 @@ Areas I’m studying and practicing in controlled labs:
   <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,windows" alt="Arch Linux, Kali Linux, Ubuntu, Windows" />
 </p>
 
-- **Arch Linux:** Primary operating system
-- **Kali Linux:** Security testing lab
-- **Ubuntu Server:** Vulnerable lab and service testing
-- **Windows 11:** Windows security and troubleshooting lab
+- **Arch Linux** — Primary OS
+- **Kali Linux** — Penetration testing
+- **Ubuntu Server** — Vulnerable lab and service testing
+- **Windows 11** — Testing and troubleshooting
 
 ## Programming & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,powershell,html,css,mysql" alt="Python, C, C++, Java, Bash, PowerShell, HTML, CSS and MySQL" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,powershell,html,css,mysql" alt="C, C++, Python, Java, Bash, PowerShell, HTML, CSS and MySQL" />
 </p>
 
-- **Programming:** Python, C, C++, Java
+- **Languages:** C, C++, Python, Java
 - **Scripting:** Bash, PowerShell
-- **Web fundamentals:** HTML, CSS, JavaScript fundamentals
+- **Web:** HTML5, CSS3
 - **Database:** MySQL
-- **Networking:** TCP/IP, DNS, HTTP/S, ports, routing, and packet analysis
 
 ## Security Tools & Offensive Utilities
 
-### Web & API Testing
+### Web & API
 <p>
   <img width="44" src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" title="Burp Suite" />
   <img width="44" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLmap" title="SQLmap" />
@@ -131,7 +123,7 @@ Areas I’m studying and practicing in controlled labs:
   <img width="44" src="https://img.icons8.com/dusk/64/postman-api.png" alt="Postman" title="Postman" />
 </p>
 
-### Network Reconnaissance & Analysis
+### Network Reconnaissance
 <p>
   <img width="44" src="https://img.icons8.com/color/48/nmap.png" alt="Nmap" title="Nmap" />
   <img width="44" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" alt="Masscan" title="Masscan" />
@@ -142,7 +134,7 @@ Areas I’m studying and practicing in controlled labs:
   <img width="44" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shodan_logo.png" alt="Shodan" title="Shodan" />
 </p>
 
-### Active Directory & Windows
+### Active Directory / Windows
 <p>
   <img width="44" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="BloodHound" title="BloodHound" />
   <img width="44" src="https://www.kali.org/tools/netexec/images/netexec-logo.svg" alt="NetExec" title="NetExec" />
@@ -157,6 +149,7 @@ Areas I’m studying and practicing in controlled labs:
   <img width="44" src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" title="John the Ripper" />
   <img width="44" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" title="Hydra" />
   <img width="44" src="https://www.kali.org/tools/cewl/images/cewl-logo.svg" alt="CeWL" title="CeWL" />
+  <img width="44" src="https://img.icons8.com/color/48/metasploit.png" alt="SearchSploit" title="SearchSploit" />
 </p>
 
 ### Wireless Security
@@ -168,8 +161,8 @@ Areas I’m studying and practicing in controlled labs:
 
 ## Featured Projects
 
-- [LLM Vulnerability Scanner](https://github.com/ayusjakhmola25/LLM-Vulnerability-Scannner) — security testing and vulnerability analysis for LLM applications.
-- [Password Cracking Analyzer Tool](https://github.com/ayusjakhmola25/Password-Cracking-Analyzer-Tool) — password strength and password-auditing concepts.
+- [LLM Vulnerability Scanner](https://github.com/ayusjakhmola25/LLM-Vulnerability-Scannner) — LLM application security testing and vulnerability analysis.
+- [Password Cracking Analyzer Tool](https://github.com/ayusjakhmola25/Password-Cracking-Analyzer-Tool) — password strength analysis and auditing concepts.
 
 ## Learning Platforms
 
@@ -200,6 +193,4 @@ Areas I’m studying and practicing in controlled labs:
 
 ---
 
-<p align="center">
-  <sub>Practice and assess systems only in environments you own or are explicitly authorized to test.</sub>
-</p>
+<p align="center"><sub>Security testing should be performed only on systems you own or are explicitly authorized to assess.</sub></p>
