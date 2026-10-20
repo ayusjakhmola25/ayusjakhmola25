@@ -75,14 +75,32 @@ Focused on learning and lab-based assessment of Windows domain environments:
 ### Course Badges
 
 <p align="center">
-  <a href="Images/ethical-hacker.png"><img src="Images/ethical-hacker.png" width="120" alt="Cisco Ethical Hacker badge" /></a>
-  <a href="Images/NetworkingBasics%20Badge.png"><img src="Images/NetworkingBasics%20Badge.png" width="120" alt="Networking Basics badge" /></a>
-  <a href="Images/ccna-introduction-to-networks.png"><img src="Images/ccna-introduction-to-networks.png" width="120" alt="CCNA Introduction to Networks badge" /></a>
-  <a href="Images/network-defense.png"><img src="Images/network-defense.png" width="120" alt="Cisco Network Defense badge" /></a>
-  <a href="Images/Cyber%20Security%20Badge.png"><img src="Images/Cyber%20Security%20Badge.png" width="120" alt="Cyber Security badge" /></a>
+  <a href="Images/ethical-hacker.png">
+    <img src="Images/ethical-hacker.png" width="140" alt="Cisco Ethical Hacker badge" />
+  </a>
+  <a href="Images/Cyber%20Security%20Badge.png">
+    <img src="Images/Cyber%20Security%20Badge.png" width="140" alt="Cyber Security badge" />
+  </a>
+  <a href="Images/NetworkingBasics%20Badge.png">
+    <img src="Images/NetworkingBasics%20Badge.png" width="140" alt="Networking Basics badge" />
+  </a>
+  <a href="Images/ccna-introduction-to-networks.png">
+    <img src="Images/ccna-introduction-to-networks.png" width="140" alt="CCNA: Introduction to Networks badge" />
+  </a>
+  <a href="Images/network-defense.png">
+    <img src="Images/network-defense.png" width="140" alt="Cisco Network Defense badge" />
+  </a>
 </p>
 
-Click any badge to open the full-size image. All badge images are stored in the [Images folder](./Images/).
+| Badge | Image |
+|---|---|
+| **Ethical Hacker** | [Open badge](Images/ethical-hacker.png) |
+| **Cyber Security** | [Open badge](Images/Cyber%20Security%20Badge.png) |
+| **Networking Basics** | [Open badge](Images/NetworkingBasics%20Badge.png) |
+| **CCNA: Introduction to Networks** | [Open badge](Images/ccna-introduction-to-networks.png) |
+| **Network Defense** | [Open badge](Images/network-defense.png) |
+
+All badges shown above are the PNG files currently available in the [Images folder](./Images/). Click a badge image or link to view its full-size version.
 
 ## Operating Systems
 
