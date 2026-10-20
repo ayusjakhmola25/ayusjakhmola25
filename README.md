@@ -1,8 +1,6 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
-<p align="center">
-  <img src="Ethical%20Hacker%20Cybersecurity%20Banner.png" alt="Ayush Jakhmola - Ethical Hacker and Cybersecurity Banner" width="100%" style="max-width:100%; height:auto; display:block;" />
-</p>
+![Ayush Jakhmola - Ethical Hacker and Cybersecurity Banner](./Ethical%20Hacker%20Cybersecurity%20Banner.png)
 
 <h1 align="center">Ayush Jakhmola</h1>
 <h3 align="center">Offensive Security Researcher | Penetration Tester</h3>
