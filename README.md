@@ -72,7 +72,6 @@ Focused on learning and lab-based assessment of Windows domain environments:
 - Cisco Ethical Hacker
 - CCNA: Introduction to Networks
 - Cisco Network Defense
-- TryHackMe Jr. Penetration Tester
 - AWS Cloud Practitioner Essentials
 
 ### Course Badges
@@ -93,7 +92,7 @@ Focused on learning and lab-based assessment of Windows domain environments:
   <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,windows" alt="Arch Linux, Kali Linux, Ubuntu, Windows" />
 </p>
 
-- **Arch Linux** — Primary OS
+- **Zorin Linux** — Primary OS
 - **Kali Linux** — Penetration testing
 - **Ubuntu Server** — Vulnerable lab and service testing
 - **Windows 11** — Testing and troubleshooting
