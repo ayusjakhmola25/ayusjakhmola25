@@ -95,14 +95,6 @@ Focused on learning and lab-based assessment of Windows domain environments:
   </a>
 </p>
 
-| Badge | View |
-|---|---|
-| **Ethical Hacker** | [Open badge](Images/ethical-hacker.png) |
-| **Cyber Security** | [Open badge](Images/Cyber%20Security%20Badge.png) |
-| **Networking Basics** | [Open badge](Images/NetworkingBasics%20Badge.png) |
-| **CCNA: Introduction to Networks** | [Open badge](Images/ccna-introduction-to-networks.png) |
-| **Network Defense** | [Open badge](Images/network-defense.png) |
-
 ## Operating Systems
 
 <p>
