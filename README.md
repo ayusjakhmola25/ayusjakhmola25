@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayusjakhmola25/ayusjakhmola25/main/cyber-banner.png" alt="Cybersecurity banner" width="100%" />
+  <img src="Ethical%20Hacker%20Cybersecurity%20Banner.png" alt="Ayush Jakhmola - Ethical Hacker and Cybersecurity Banner" width="100%" />
 </p>
 
 <h1 align="center">Ayush Jakhmola</h1>
