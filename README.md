@@ -67,10 +67,13 @@ Focused on learning and lab-based assessment of Windows domain environments:
 </p>
 
 ### Certifications / Courses
-- Cisco Ethical Hacker
-- CCNA: Introduction to Networks
-- Cisco Network Defense
-- AWS Cloud Practitioner Essentials
+
+- **Cisco Ethical Hacker** — [View Badge](Images/ethical-hacker.png)
+- **Cyber Security** — [View Badge](Images/Cyber%20Security%20Badge.png)
+- **Networking Basics** — [View Badge](Images/NetworkingBasics%20Badge.png)
+- **CCNA: Introduction to Networks** — [View Badge](Images/ccna-introduction-to-networks.png)
+- **Cisco Network Defense** — [View Badge](Images/network-defense.png)
+- **AWS Cloud Practitioner Essentials** — *Badge image not currently present in the Images folder*
 
 ### Course Badges
 
