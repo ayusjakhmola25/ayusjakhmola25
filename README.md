@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
-![Ayush Jakhmola - Ethical Hacker and Cybersecurity Banner](./Images/Ethical%20Hacker%20Cybersecurity%20Banner.png)
+![Ayush Jakhmola - Ethical Hacker and Cybersecurity Banner](./Ethical%20Hacker%20Cybersecurity%20Banner.png)
 
 <h1 align="center">Ayush Jakhmola</h1>
 <h3 align="center">Offensive Security Researcher | Penetration Tester</h3>
@@ -74,15 +74,15 @@ Focused on learning and lab-based assessment of Windows domain environments:
 
 ### Course Badges
 
-<p align="left">
-  <a href="YOUR_CISCO_ETHICAL_HACKER_BADGE_URL"><img src="Images/ethical-hacker.png" width="92" alt="Cisco Ethical Hacker badge" /></a>
-  <a href="YOUR_CCNA_INTRO_BADGE_URL"><img src="Images/networking-basics.png" width="92" alt="CCNA Introduction to Networks badge" /></a>
-  <a href="YOUR_NETWORK_DEFENSE_BADGE_URL"><img src="Images/network-defense.png" width="92" alt="Cisco Network Defense badge" /></a>
-  <a href="YOUR_AWS_BADGE_URL"><img src="Images/aws-cloud-quest-cloud-practitioner-training-badge.png" width="92" alt="AWS Cloud Quest badge" /></a>
-  <a href="YOUR_ISC2_BADGE_URL"><img src="Images/isc2-candidate.png" width="92" alt="ISC2 Candidate badge" /></a>
+<p align="center">
+  <a href="Images/ethical-hacker.png"><img src="Images/ethical-hacker.png" width="120" alt="Cisco Ethical Hacker badge" /></a>
+  <a href="Images/NetworkingBasics%20Badge.png"><img src="Images/NetworkingBasics%20Badge.png" width="120" alt="Networking Basics badge" /></a>
+  <a href="Images/ccna-introduction-to-networks.png"><img src="Images/ccna-introduction-to-networks.png" width="120" alt="CCNA Introduction to Networks badge" /></a>
+  <a href="Images/network-defense.png"><img src="Images/network-defense.png" width="120" alt="Cisco Network Defense badge" /></a>
+  <a href="Images/Cyber%20Security%20Badge.png"><img src="Images/Cyber%20Security%20Badge.png" width="120" alt="Cyber Security badge" /></a>
 </p>
 
-> Replace the placeholder badge URLs with your public credential links. Ensure image filenames exist in the repository. Course badges and professional certifications should be labelled accurately.
+Click any badge to open the full-size image. All badge images are stored in the [Images folder](./Images/).
 
 ## Operating Systems
 
